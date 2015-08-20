@@ -13,7 +13,7 @@
  */
 int main(int argc, char** argv) {
     printf("EGG");
-    printf("opps");
+    printf("op00000ps");
 
     return (EXIT_SUCCESS);
 }
